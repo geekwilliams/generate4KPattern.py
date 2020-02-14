@@ -1,4 +1,4 @@
-#Generate 4k pattern using this python script
+# Generate 4k pattern using this python script
 
 Image size determined by 'Image.new((mode),[size],(color))'
 
